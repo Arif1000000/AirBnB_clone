@@ -26,9 +26,9 @@ Commands
 |   Commands   |           Description              |    Usage      |
 | ------------ | ---------------------------------- | ------------- |
 | help or ?    | Displays the documented commands   | help          |
-| ------------ | ---------------------------------- | ------------- |
+|              |                                    |               |
 | quit         | Exits the program.                 | quit          |
-| ------------ | ---------------------------------- | ------------- |
+|              |                                    |               |
 | EOF          | Ends the program.Used when files   |               |
 |              | are passed into the program.       | N/A           |
 | ------------ | ---------------------------------- | ------------- |
