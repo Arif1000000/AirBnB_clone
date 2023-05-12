@@ -28,29 +28,29 @@ Commands
 | help or ?    | Displays the documented commands   | help          |
 |              |                                    |               |
 | quit         | Exits the program.                 | quit          |
-                                                  
+|              |                                    |               |
 | EOF          | Ends the program.Used when files   |               |
 |              | are passed into the program.       | N/A           |
-| ------------ | ---------------------------------- | ------------- |
-|              | Creates a new instance of the      | create        |
-| create       | <class_name>.Creates a Json file   | <class_name>  |
+|              |                                    |               |
+| create       | Creates a new instance of the      | create        |
+|              | <class_name>.Creates a Json file   | <class_name>  |
 |              | with the object representation. and|               |
 |              | prints the id of created object    |               |
-| ------------ | ---------------------------------- | ------------- |
+|              |                                    |               |
 | show         | Prints the string representation of|    show       |
 |              | an instance based on the class name| <class_name   |
 |              | and id.                            | class_id>     |
-| ------------ | ---------------------------------- | ------------- |
-|              | Deletes and instance base on the   | destroy       |
-| destroy      | class name and id.                 | <class_name   |
+|              |                                    |               |
+| destroy      | Deletes and instance base on the   | destroy       |
+|              | class name and id.                 | <class_name   |
 |              |                                    | class_id>     |
-| ------------ | ---------------------------------- | ------------- |
-|              | Prints all string representation of| all or all    |
-| all          | all instances based or not on the  | <class_name   |
+|              |                                    |               |
+| all          | Prints all string representation of| all or all    |
+|              | all instances based or not on the  | <class_name   |
 |              |                                    | class_id>     |
-| ------------ | ---------------------------------- | ------------- |
-|              | Updates an instance based on the   | update        |
-| update       | class name and id by adding or     | <class_name   |
+|              |                                    |               |
+| update       | Updates an instance based on the   | update        |
+|              | class name and id by adding or     | <class_name   |
 |              | updating attribute                 | class_id key  |
 |              |                                    | value>        |
 
